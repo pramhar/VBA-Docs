@@ -313,7 +313,7 @@ This section briefly discusses a few more key topics.
 
 In the simple examples in this article you manipulated objects that the application had already created. You might want to create your own objects to store values or references to other objects for temporary use in your application. These are called variables.
 
-To use a variable in VBA, must tell VBA which type of object the variable represents by using the **Dim** statement. You then set its value and use it to set other variables or properties.
+To use a variable in VBA, you must tell VBA which type of object the variable represents by using the **Dim** statement. You then set its value and use it to set other variables or properties.
 
 ```vb
     Dim MyStringVariable As String
